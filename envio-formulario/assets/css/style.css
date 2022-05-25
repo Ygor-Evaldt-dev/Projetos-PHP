@@ -1,0 +1,19 @@
+/* estilo fonte labels */
+label {
+  font-weight: 500;
+}
+
+/* mensagens de tratamento de erro de preenchimento do formulário */
+.erro {
+  color: #ff0000;
+}
+
+/* estilo link github footer */
+.link-github {
+  padding: 0.2rem 0.8rem !important;
+}
+.link-github:hover {
+  background-color: #ffffff;
+  color: blue !important;
+  border-radius: 10px;
+}
