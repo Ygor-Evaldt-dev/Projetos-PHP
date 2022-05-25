@@ -1,4 +1,4 @@
-# Como vizualisar os projetos desse repositório
+# Como visualiza os projetos desse repositório
 
 1 - Você irá precisar baixar e instalar um software com tudo oque é necessário para gerar um servidor local na sua maquina
 link pra download e tutorial de instalação do <strong>WampServer</strong> aqui: https://www.wampserver.com/en/.
