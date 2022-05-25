@@ -39,7 +39,7 @@
       </div>
       <div class="mb-3">
         <label for="telefone" class="form-label">Telefone:</label>
-        <input required type="phone" class="form-control" id="telefone" placeholder="(DD) 9 9999-9999)" name="telefone">
+        <input required type="phone" class="form-control" id="telefone" placeholder="(99) 99999-9999" name="telefone">
       </div>
       <div class="mb-3 mt-3">
         <label for="email" class="form-label">E-mail:</label>
