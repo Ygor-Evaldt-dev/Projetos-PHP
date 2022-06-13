@@ -1,0 +1,28 @@
+.img-index {
+  padding-top: 2rem;
+  max-width: 50% !important;
+  height: auto;
+  margin-bottom: 5rem;
+}
+
+.hover a:hover {
+  box-shadow: 0rem 0rem 0.2rem #fff;
+  border-radius: 4px;
+}
+
+.erro {
+  color: #ff0000 !important;
+}
+
+.sucesso {
+  color: #008000 !important;
+}
+
+.head-tabela th {
+  font-weight: lighter !important;
+}
+
+.tabela {
+  max-width: 70vw !important;
+}
+

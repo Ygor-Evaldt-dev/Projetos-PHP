@@ -1,0 +1,15 @@
+.corpo-formulario {
+  max-width: 60rem !important;
+  border-radius: 1rem;
+}
+.destaque-texto {
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+.form-check-input {
+  margin-left: -1.5rem !important;
+}
+
+ul {
+  list-style: none !important;
+}
